@@ -28,4 +28,5 @@
                 content: "";
                 position: absolute;
                 background-color: orangered;
+                width: 0;
             }
