@@ -1,2 +1,4 @@
 const btnEl = document.querySelector(".btn");
-btnEL.addEventListener("mousever", (event) => { const x = event.pageX - btnEl.offsetLeft;
+btnEL.addEventListener("mousever", (event) => {
+            const x = event.pageX - btnEl.offsetLeft;
+            const y = event.pageY - btnEl.offsetTop;
