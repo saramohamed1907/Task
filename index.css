@@ -21,4 +21,5 @@
             
             .btn span {
                 position: relative;
+                z-index: 1;
             }
