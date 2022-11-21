@@ -18,3 +18,7 @@
                 position: relative;
                 overflow: hidden;
             }
+            
+            .btn span {
+                position: relative;
+            }
